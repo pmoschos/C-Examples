@@ -26,18 +26,10 @@
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-<p align="center">
-    Happy Coding! 
-</p>
-
-<p align="center">
-🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!
-</p>
-
-## License 📜
+## 📜 License 
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-## Contact 📧
+## 📧 Contact 
 Panagiotis Moschos - (pan.moschos86@gmail.com)
 
 ---
