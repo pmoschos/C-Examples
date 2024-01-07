@@ -31,7 +31,7 @@ Be sure to ⭐ this repository to stay updated with new examples and enhancement
 </p>
 
 <p align="center">
-    🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!
+🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!
 </p>
 
 ## License 📜
@@ -42,6 +42,8 @@ Panagiotis Moschos - (pan.moschos86@gmail.com)
 
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<h2 align=center>🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!</h2>  
 
 <p align="center">
   Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
