@@ -26,9 +26,13 @@
 
 Be sure to ⭐ this repository to stay updated with new examples and enhancements!
 
-Happy Coding! 
+<p align="center">
+    Happy Coding! 
+</p>
 
-🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!
+<p align="center">
+    🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!
+</p>
 
 ## License 📜
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
