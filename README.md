@@ -35,7 +35,7 @@ Panagiotis Moschos - (pan.moschos86@gmail.com)
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
 
-<h2 align=center>🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!</h2>  
+<h3 align=center>🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!</h3>  
 
 <p align="center">
   Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
