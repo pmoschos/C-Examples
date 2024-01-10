@@ -68,7 +68,7 @@ int main(void)
 ## Getting Started 🚀
 To get started with C++ Examples:
 1. Clone the repository: `git clone https://github.com/pmoschos/C-Examples`
-2. Navigate to the desired script
+2. Navigate to the `example02` directory.
 3. Compile and run the program to see it in action
 
 ## 📢 Stay Updated
