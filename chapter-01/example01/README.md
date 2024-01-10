@@ -56,7 +56,7 @@ int main()
 ## Getting Started 🚀
 To get started with C++ Examples:
 1. Clone the repository: `git clone https://github.com/pmoschos/C-Examples`
-2. Navigate to the desired script
+2. Navigate to the `example01` directory.
 3. Read the accompanying documentation for usage instructions
 
 ## License 📜
