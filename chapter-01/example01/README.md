@@ -59,14 +59,20 @@ To get started with C++ Examples:
 2. Navigate to the `example01` directory.
 3. Read the accompanying documentation for usage instructions
 
-## License 📜
+## 📢 Stay Updated
+
+Be sure to ⭐ this repository to stay updated with new examples and enhancements!
+
+## 📜 License 
 🔐 This project is protected under the [MIT License](https://mit-license.org/).
 
-## Contact 📧
+## 📧 Contact 
 Panagiotis Moschos - (pan.moschos86@gmail.com)
 
 ---
 <h1 align=center>Happy Coding 👨‍💻 </h1>
+
+<h3 align=center>🎉 Let's make learning C++ an enjoyable and fruitful journey for everyone!</h3>  
 
 <p align="center">
   Made with ❤️ by Panagiotis Moschos (https://github.com/pmoschos)
