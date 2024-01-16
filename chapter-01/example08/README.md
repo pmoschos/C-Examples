@@ -42,9 +42,11 @@ int main(void)
 ### 🔢 Variable Declarations and Sizeof Operator
 - `short x = 394;`, `int y = 8484;`, `long z = 3884L;`, `long int w = 9347948;`:
   - 🔍 **What are they?** These lines declare variables of different integral types.
-  - `cout << sizeof(x) << endl;` and similar lines:
-    - 🔍 **What are they?** Outputs the sizes of the variables in bytes.
-  - 📈 **Why it's important?** Demonstrates how to use the `sizeof` operator to determine the size of different data types in C++.
+
+### 🔢 Sizeof Operator
+- `sizeof(x)`, `sizeof(y)`, `sizeof(z)`, `sizeof(w)`:
+  - 🔍 **What is it?** These statements determine the size of the variables.
+  - 📈 **Why it's important?** Shows how to use the `sizeof` operator to find out the size of different data types in bytes.
 
 ### 🛑 System Pause
 - `system("pause");`:
