@@ -27,11 +27,11 @@ int main(void)
     printf("%1.10f \n", 97.93274);
 
     // Combined integer output
-    printf("To x einai %d kai to y einai %d\n", x, y);
+    printf("x is equat %d and y is equal to %d\n", x, y);
     printf("%d+%d=%d\n", x, y, x + y);
 
     // Displaying a character
-    printf("O c eixei tin timi %c \n", xaraktiras);
+    printf("Value of c is: %c \n", xaraktiras);
     printf("%c-%c-%c\n", 'a', 'b', 'c');
 
     // Pause the system to view the output before the console closes
