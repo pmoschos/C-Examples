@@ -1,4 +1,4 @@
-# Chapter 01: Introduction to C++
+# 🌟 Chapter 01: Introduction to C++
 
 ## 📖 Overview
 Chapter 01 provides an introductory overview of C++ programming. It covers basic concepts including output to the console, input from the user, data types, casting, and memory concepts. This chapter is essential for building a strong foundation in C++ programming.
