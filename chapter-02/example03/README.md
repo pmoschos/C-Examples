@@ -1,4 +1,5 @@
-🌟 Calculating and Displaying the Last Digit in C++
+# 🌟 Calculating and Displaying the Last Digit in C++
+
 This program demonstrates how to calculate and display the last digit of an integer in C++ using the modulo operator %.
 
 📝 Program Code
