@@ -2,7 +2,7 @@
 
 This program demonstrates how to calculate and display the last digit of an integer in C++ using the modulo operator %.
 
-📝 Program Code
+## 📝 Program Code
 
 ```cpp
 #include <iostream>
